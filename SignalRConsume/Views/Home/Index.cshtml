@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <br />
+    <div class="alert alert-warning">
+        Bağlantınızın Durumu: <b id="connectionStatus"></b>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(() => {
+            // API adresinizin ve portunuzun doğruluğunu kontrol edin
+            var connection = new signalR.HubConnectionBuilder()
+                .withUrl("http://localhost:5117/Visitorhub")
+                .build();
+
+            // connectionState yerine connection.state kullanın
+            $("#connectionStatus").text(connection.state);
+
+            connection.start().then(() => {
+                $("#connectionStatus").text(connection.state);
+            }).catch((err) => {
+                console.log(err);
+                $("#connectionStatus").text("Bağlantı Hatası!");
+            });
+        });
+    </script>
+}
