@@ -1,5 +1,3 @@
-<img width="1919" height="796" alt="Ekran görüntüsü 2026-08-18 171530" src="https://github.com/user-attachments/assets/0d84f15e-dde3-47b5-b008-56f15236debb" /># TraversalCoreProject
-
 ## 🌍 TraversalCoreProject
 
 TraversalCoreProject, **ASP.NET Core 8** kullanılarak geliştirilmiş, turizm ve seyahat sektörüne yönelik bir **web tabanlı tur yönetimi, destinasyon, rezervasyon ve içerik yönetim platformudur**.
