@@ -1,4 +1,4 @@
-# TraversalCoreProject
+<img width="1919" height="796" alt="Ekran görüntüsü 2026-08-18 171530" src="https://github.com/user-attachments/assets/0d84f15e-dde3-47b5-b008-56f15236debb" /># TraversalCoreProject
 
 ## 🌍 TraversalCoreProject
 
@@ -250,5 +250,40 @@ TraversalCoreProject özellikle aşağıdaki konularda pratik kazanmak amacıyla
 * Email
 * Excel Reporting
 * PDF Reporting
+
+---
+
+## Projenin Ana Sayfa Görselleri
+
+<img width="1919" height="796" alt="Ekran görüntüsü 2026-08-18 171530" src="https://github.com/user-attachments/assets/3ab99e51-05d0-41d8-aa8b-a323d472438e" />
+<img width="1918" height="789" alt="Ekran görüntüsü 2026-08-18 171941" src="https://github.com/user-attachments/assets/4e20d61b-500c-4f74-9cf0-45d8a5373c5c" />
+<img width="1919" height="787" alt="Ekran görüntüsü 2026-08-18 172010" src="https://github.com/user-attachments/assets/e25e9b57-84ae-408c-8093-abb553e67d8b" />
+<img width="1919" height="806" alt="Ekran görüntüsü 2026-08-18 172101" src="https://github.com/user-attachments/assets/2cfee002-f8d7-48f8-b9ef-c860b46dee6f" />
+<img width="1919" height="789" alt="Ekran görüntüsü 2026-08-18 172114" src="https://github.com/user-attachments/assets/fc2e8e6b-aa37-4818-ac5d-601db7232e3a" />
+<img width="1919" height="787" alt="Ekran görüntüsü 2026-08-18 172132" src="https://github.com/user-attachments/assets/0923c8ee-993e-4627-bc26-1505e544aa53" />
+<img width="1919" height="799" alt="Ekran görüntüsü 2026-08-18 172155" src="https://github.com/user-attachments/assets/402feba3-e1c4-4f13-b1e5-887d6adb7eae" />
+<img width="1917" height="802" alt="Ekran görüntüsü 2026-08-18 172210" src="https://github.com/user-attachments/assets/5a325c44-abb5-4694-b892-b77afecebc87" />
+<img width="1919" height="783" alt="Ekran görüntüsü 2026-08-18 172224" src="https://github.com/user-attachments/assets/12dc242c-16de-4b59-bfcd-c386c3c9fa4e" />
+
+---
+
+## Projenin Admin Tarafı Görselleri
+
+<img width="1918" height="814" alt="Ekran görüntüsü 2026-08-18 194251" src="https://github.com/user-attachments/assets/ba86a4ea-b34a-4ab7-9542-a5aea8aadb7d" />
+<img width="1919" height="796" alt="Ekran görüntüsü 2026-08-18 194306" src="https://github.com/user-attachments/assets/d5a844d2-b7c5-40c6-a8dc-3a42aeaac40e" />
+<img width="1919" height="797" alt="Ekran görüntüsü 2026-08-18 194319" src="https://github.com/user-attachments/assets/8bd1e4b3-ad90-4126-bfb1-38139f8b3910" />
+<img width="1919" height="806" alt="Ekran görüntüsü 2026-08-18 194335" src="https://github.com/user-attachments/assets/2a2b08a4-bb05-49aa-83c3-c497f122e328" />
+<img width="1915" height="804" alt="Ekran görüntüsü 2026-08-18 194351" src="https://github.com/user-attachments/assets/9df7ae10-02f2-4cd9-8d32-b90268db12a2" />
+<img width="1919" height="593" alt="Ekran görüntüsü 2026-08-18 194419" src="https://github.com/user-attachments/assets/7a3c8fb2-7102-4362-8681-e2afabc0ad44" />
+<img width="1919" height="803" alt="Ekran görüntüsü 2026-08-18 194433" src="https://github.com/user-attachments/assets/d223ec5c-f50e-4ba4-b36d-c78120fd854c" />
+<img width="1919" height="801" alt="Ekran görüntüsü 2026-08-18 194453" src="https://github.com/user-attachments/assets/d501aee5-d761-47af-ab16-65ed8335ea61" />
+
+---
+
+## Projenin Kullanıcı Tarafı Görselleri
+
+<img width="1919" height="895" alt="Ekran görüntüsü 2026-08-18 122807" src="https://github.com/user-attachments/assets/55a10f8f-26ec-4fa7-ba02-586c9aae1654" />
+<img width="1919" height="904" alt="Ekran görüntüsü 2026-08-18 122826" src="https://github.com/user-attachments/assets/a17cac47-48ed-439c-ac74-446ed81d4979" />
+<img width="1919" height="754" alt="Ekran görüntüsü 2026-08-18 171441" src="https://github.com/user-attachments/assets/6ec211d4-d8f1-4028-92bd-5bee7e82cfdd" />
 
 ---
